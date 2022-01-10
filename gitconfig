@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = norty.nakagawa@gmail.com
+	name = Norty Nakagawa
